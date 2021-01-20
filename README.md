@@ -1,2 +1,2 @@
-# cleardash.github.io
+# paulellis.github.io
  Example Dashboard Design
